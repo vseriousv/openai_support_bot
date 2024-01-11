@@ -1,8 +1,8 @@
 {
-  "name": "danetka-bot",
+  "name": "openai_telegram_nestjs",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "vseriousv",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
